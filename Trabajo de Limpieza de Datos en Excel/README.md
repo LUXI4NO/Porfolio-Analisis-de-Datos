@@ -2,12 +2,6 @@
 
 # Informe de Proyecto: Sistema de Control de Ventas - Gastronomia
 
-**Autor:** Luciano Alvarez
-
-**Carrera:** Ingenieria en Informatica (UNAJ)
-
-**Proyecto:** Panel de Control Interactivo para Pizzeria
-
 ---
 
 ## 1. Introduccion
