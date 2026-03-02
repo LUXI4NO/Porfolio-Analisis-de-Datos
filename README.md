@@ -22,9 +22,8 @@ Con la base ya limpia, pasé a la etapa de análisis para extraer conclusiones d
 * **Métrica de Eficiencia:** Creé un indicador (Ratio) para identificar qué productos rinden mejor comparando sus reseñas con su precio.
 * **Dashboard Interactivo:** Diseñé un panel visual en Google Sheets con filtros para navegar los datos de forma sencilla.
 
-### 📸 Vista previa del Dashboard final:
-![Dashboard de Ventas]([Proyecto%20SQL%20-%20Google%20Sheets/Img/image_6b7824.png](https://github.com/LUXI4NO/Porfolio-Analisis-de-Datos/blob/main/Proyecto%20SQL%20-%20Google%20Sheets/Img/Captura%20de%20pantalla%202026-03-01%20203702.png)
-
+### Vista previa del Dashboard:
+![Dashboard de Ventas](https://raw.githubusercontent.com/LUXI4NO/Porfolio-Analisis-de-Datos/main/Proyecto%20SQL%20-%20Google%20Sheets/Img/Captura%20de%20pantalla%202026-03-01%20203702.png)
 ---
 
 ## 📈 Conclusiones de la práctica
