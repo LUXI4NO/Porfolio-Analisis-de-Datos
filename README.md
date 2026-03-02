@@ -23,7 +23,7 @@ Con la base ya limpia, pasé a la etapa de análisis para extraer conclusiones d
 * **Dashboard Interactivo:** Diseñé un panel visual en Google Sheets con filtros para navegar los datos de forma sencilla.
 
 ### 📸 Vista previa del Dashboard final:
-![Dashboard de Ventas](Proyecto%20SQL%20-%20Google%20Sheets/Img/image_6b7824.png)
+![Dashboard de Ventas]([Proyecto%20SQL%20-%20Google%20Sheets/Img/image_6b7824.png](https://github.com/LUXI4NO/Porfolio-Analisis-de-Datos/blob/main/Proyecto%20SQL%20-%20Google%20Sheets/Img/Captura%20de%20pantalla%202026-03-01%20203702.png)
 
 ---
 
